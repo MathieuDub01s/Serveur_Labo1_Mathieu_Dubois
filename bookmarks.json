@@ -1,0 +1,38 @@
+[
+    {
+        "Title": "Collège de Maisonneuve",
+        "Url": "https://www.cmaisonneuve.qc.ca/",
+        "Category": "Cegep",
+        "Id": 1
+    },
+    {
+        "Title": "Collège Lionel-Groulx",
+        "Url": "https://clg.qc.ca/",
+        "Category": "Cegep",
+        "Id": 2
+    },
+    {
+        "Id": 4,
+        "Title": "Youtube",
+        "Url": "https://www.youtube.com/",
+        "Category": "Réseaux Sociaux"
+    },
+    {
+        "Id": 5,
+        "Title": "Instagram",
+        "Url": "https://www.instagram.com/",
+        "Category": "Réseaux Sociaux"
+    },
+    {
+        "Id": 6,
+        "Title": "Azure",
+        "Url": "https://azure.microsoft.com/en-ca/free/search/?ef_id=_k_Cj0KCQjwrp-3BhDgARIsAEWJ6SzJWCUzef9SNoGBx_LnMsHAzKa1NvWDCcOUrsrCZpT2k_eS_B4yPgkaAvGyEALw_wcB_k_&OCID=AIDcmmqz3gd78m_SEM__k_Cj0KCQjwrp-3BhDgARIsAEWJ6SzJWCUzef9SNoGBx_LnMsHAzKa1NvWDCcOUrsrCZpT2k_eS_B4yPgkaAvGyEALw_wcB_k_&gad_source=1&gclid=Cj0KCQjwrp-3BhDgARIsAEWJ6SzJWCUzef9SNoGBx_LnMsHAzKa1NvWDCcOUrsrCZpT2k_eS_B4yPgkaAvGyEALw_wcB",
+        "Category": "Cloud"
+    },
+    {
+        "Id": 7,
+        "Title": "Twitch",
+        "Url": "https://www.twitch.tv/",
+        "Category": "Live"
+    }
+]
